@@ -5,7 +5,7 @@
 ### ---------------------------------------------------------
 
 ## Description:
-#### This is a plugin to easily add ranks to your own server!
+#### This is a plugin to easily add prefixes to your own server!
 
 ### ---------------------------------------------------------
 ## Help-Commands:
