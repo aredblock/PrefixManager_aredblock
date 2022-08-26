@@ -1,0 +1,11 @@
+name: PrefixManager_aredblock
+main: Main
+api-version: 1.13
+version: 0.1
+commands:
+   mp:
+      description: Manage the prefixes!
+      usage: /mp
+   phelp:
+      description: Prefix help command!
+      usage: /phelp
