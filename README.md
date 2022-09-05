@@ -2,6 +2,7 @@
 # PrefixManager_aredblock- Plugin
 
 ### License: Affero General Public License and saying my name
+### Minecraft-Version: (Tested: 1.18.2)
 
 <hr>
 
