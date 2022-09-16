@@ -22,5 +22,5 @@
 <hr>
 
 
-#### Download here [download](https://download938.mediafire.com/bwvt907phfog/n7h4qp1aobb44aq/PrefixManager_aredblock-0.1.jar)!
+#### Download here [download](https://www.mediafire.com/file/by7zej829bj79b2/PrefixManager_aredblock-0.5.jar/file)!
 
