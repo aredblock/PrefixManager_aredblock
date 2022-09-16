@@ -47,6 +47,7 @@ public class Main extends JavaPlugin {
 						try {
 							p.setCustomName(args[1]);
 							p.setPlayerListName(args[1]);
+							p.setDisplayName(args[1]);
 							p.sendMessage(ChatColor.GREEN.toString() + "Prefix is removed!");
 						} catch (Exception e) {
 							p.sendMessage(ChatColor.RED.toString() + "Error entering command. For help do /phelp!");
